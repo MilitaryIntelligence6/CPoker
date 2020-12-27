@@ -1,4 +1,4 @@
-# Clang Poker
+# C Poker
 
 - C实现的发扑克牌过程;
 
